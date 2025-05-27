@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.storage
+package io.censystems.marketkit.storage
 
-import io.horizontalsystems.marketkit.models.GlobalMarketInfo
-import io.horizontalsystems.marketkit.models.HsTimePeriod
+import io.censystems.marketkit.models.GlobalMarketInfo
+import io.censystems.marketkit.models.HsTimePeriod
 
 class GlobalMarketInfoStorage(marketDatabase: MarketDatabase) {
     private val dao = marketDatabase.globalMarketInfoDao()

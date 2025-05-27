@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace 'io.horizontalsystems.marketkit'
+    namespace 'io.censystems.marketkit'
     compileSdk 34
 
     defaultConfig {

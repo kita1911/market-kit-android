@@ -1,10 +1,10 @@
-package io.horizontalsystems.marketkit.storage
+package io.censystems.marketkit.storage
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import io.horizontalsystems.marketkit.models.CoinHistoricalPrice
+import io.censystems.marketkit.models.CoinHistoricalPrice
 
 @Dao
 interface CoinHistoricalPriceDao {

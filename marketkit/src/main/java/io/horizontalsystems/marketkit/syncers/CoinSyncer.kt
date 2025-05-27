@@ -1,11 +1,11 @@
-package io.horizontalsystems.marketkit.syncers
+package io.censystems.marketkit.syncers
 
 import android.util.Log
-import io.horizontalsystems.marketkit.SyncInfo
-import io.horizontalsystems.marketkit.models.*
-import io.horizontalsystems.marketkit.providers.HsProvider
-import io.horizontalsystems.marketkit.storage.CoinStorage
-import io.horizontalsystems.marketkit.storage.SyncerStateDao
+import io.censystems.marketkit.SyncInfo
+import io.censystems.marketkit.models.*
+import io.censystems.marketkit.providers.HsProvider
+import io.censystems.marketkit.storage.CoinStorage
+import io.censystems.marketkit.storage.SyncerStateDao
 import io.reactivex.Single
 import io.reactivex.disposables.Disposable
 import io.reactivex.schedulers.Schedulers

@@ -1,10 +1,10 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
-import io.horizontalsystems.marketkit.models.GlobalMarketInfo
-import io.horizontalsystems.marketkit.models.GlobalMarketPoint
-import io.horizontalsystems.marketkit.models.HsTimePeriod
-import io.horizontalsystems.marketkit.providers.HsProvider
-import io.horizontalsystems.marketkit.storage.GlobalMarketInfoStorage
+import io.censystems.marketkit.models.GlobalMarketInfo
+import io.censystems.marketkit.models.GlobalMarketPoint
+import io.censystems.marketkit.models.HsTimePeriod
+import io.censystems.marketkit.providers.HsProvider
+import io.censystems.marketkit.storage.GlobalMarketInfoStorage
 import io.reactivex.Single
 
 class GlobalMarketInfoManager(

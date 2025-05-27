@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit.models
+package io.censystems.marketkit.models
 
 data class Auditor(
     val name: String,

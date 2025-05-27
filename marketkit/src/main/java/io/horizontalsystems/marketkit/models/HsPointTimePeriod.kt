@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit.models
+package io.censystems.marketkit.models
 
 enum class HsPointTimePeriod(val value: String) {
     Minute30("30m"),

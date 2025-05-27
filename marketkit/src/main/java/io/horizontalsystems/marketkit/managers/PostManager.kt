@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
-import io.horizontalsystems.marketkit.models.Post
-import io.horizontalsystems.marketkit.providers.CryptoCompareProvider
+import io.censystems.marketkit.models.Post
+import io.censystems.marketkit.providers.CryptoCompareProvider
 import io.reactivex.Single
 
 class PostManager(

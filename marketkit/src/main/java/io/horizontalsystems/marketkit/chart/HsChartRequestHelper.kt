@@ -1,8 +1,8 @@
-package io.horizontalsystems.marketkit.chart
+package io.censystems.marketkit.chart
 
-import io.horizontalsystems.marketkit.models.HsPeriodType
-import io.horizontalsystems.marketkit.models.HsPointTimePeriod
-import io.horizontalsystems.marketkit.models.HsTimePeriod
+import io.censystems.marketkit.models.HsPeriodType
+import io.censystems.marketkit.models.HsPointTimePeriod
+import io.censystems.marketkit.models.HsTimePeriod
 import java.util.*
 
 object HsChartRequestHelper {

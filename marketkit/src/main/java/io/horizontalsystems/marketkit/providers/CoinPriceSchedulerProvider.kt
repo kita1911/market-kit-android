@@ -1,8 +1,8 @@
-package io.horizontalsystems.marketkit.providers
+package io.censystems.marketkit.providers
 
-import io.horizontalsystems.marketkit.managers.CoinPriceManager
-import io.horizontalsystems.marketkit.managers.ICoinPriceCoinUidDataSource
-import io.horizontalsystems.marketkit.models.CoinPrice
+import io.censystems.marketkit.managers.CoinPriceManager
+import io.censystems.marketkit.managers.ICoinPriceCoinUidDataSource
+import io.censystems.marketkit.models.CoinPrice
 import io.reactivex.Single
 
 interface ISchedulerProvider {

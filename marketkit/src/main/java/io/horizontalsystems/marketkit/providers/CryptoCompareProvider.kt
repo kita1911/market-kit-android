@@ -1,6 +1,6 @@
-package io.horizontalsystems.marketkit.providers
+package io.censystems.marketkit.providers
 
-import io.horizontalsystems.marketkit.models.Post
+import io.censystems.marketkit.models.Post
 import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Query

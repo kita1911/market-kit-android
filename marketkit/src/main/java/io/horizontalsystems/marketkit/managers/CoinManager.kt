@@ -1,17 +1,17 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
 import android.util.Log
-import io.horizontalsystems.marketkit.models.Blockchain
-import io.horizontalsystems.marketkit.models.BlockchainType
-import io.horizontalsystems.marketkit.models.Coin
-import io.horizontalsystems.marketkit.models.DefiMarketInfo
-import io.horizontalsystems.marketkit.models.DefiMarketInfoResponse
-import io.horizontalsystems.marketkit.models.FullCoin
-import io.horizontalsystems.marketkit.models.MarketInfo
-import io.horizontalsystems.marketkit.models.MarketInfoRaw
-import io.horizontalsystems.marketkit.models.Token
-import io.horizontalsystems.marketkit.models.TokenQuery
-import io.horizontalsystems.marketkit.storage.CoinStorage
+import io.censystems.marketkit.models.Blockchain
+import io.censystems.marketkit.models.BlockchainType
+import io.censystems.marketkit.models.Coin
+import io.censystems.marketkit.models.DefiMarketInfo
+import io.censystems.marketkit.models.DefiMarketInfoResponse
+import io.censystems.marketkit.models.FullCoin
+import io.censystems.marketkit.models.MarketInfo
+import io.censystems.marketkit.models.MarketInfoRaw
+import io.censystems.marketkit.models.Token
+import io.censystems.marketkit.models.TokenQuery
+import io.censystems.marketkit.storage.CoinStorage
 
 class CoinManager(
     private val storage: CoinStorage,

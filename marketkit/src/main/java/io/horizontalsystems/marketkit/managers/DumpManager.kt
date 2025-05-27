@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
 import android.database.DatabaseUtils
-import io.horizontalsystems.marketkit.storage.MarketDatabase
+import io.censystems.marketkit.storage.MarketDatabase
 
 class DumpManager(private val marketDatabase: MarketDatabase) {
 

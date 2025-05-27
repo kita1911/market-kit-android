@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'io.horizontalsystems.marketkit.demo'
+    namespace 'io.censystems.marketkit.demo'
     compileSdk 34
 
     defaultConfig {
-        applicationId 'io.horizontalsystems.marketkit.demo'
+        applicationId 'io.censystems.marketkit.demo'
         minSdk 26
         targetSdk 34
         versionCode 1

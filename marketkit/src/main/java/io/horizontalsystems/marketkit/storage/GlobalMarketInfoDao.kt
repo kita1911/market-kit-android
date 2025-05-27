@@ -1,11 +1,11 @@
-package io.horizontalsystems.marketkit.storage
+package io.censystems.marketkit.storage
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import io.horizontalsystems.marketkit.models.GlobalMarketInfo
-import io.horizontalsystems.marketkit.models.HsTimePeriod
+import io.censystems.marketkit.models.GlobalMarketInfo
+import io.censystems.marketkit.models.HsTimePeriod
 
 @Dao
 interface GlobalMarketInfoDao {

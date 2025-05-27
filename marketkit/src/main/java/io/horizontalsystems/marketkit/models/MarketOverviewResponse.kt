@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.models
+package io.censystems.marketkit.models
 
 import com.google.gson.annotations.SerializedName
-import io.horizontalsystems.marketkit.providers.TopCollectionRaw
+import io.censystems.marketkit.providers.TopCollectionRaw
 
 data class MarketOverviewResponse(
     @SerializedName("global")

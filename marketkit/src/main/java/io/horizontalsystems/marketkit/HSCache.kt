@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit
+package io.censystems.marketkit
 
 import java.io.File
 

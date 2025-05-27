@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.providers
+package io.censystems.marketkit.providers
 
 import com.google.gson.annotations.SerializedName
-import io.horizontalsystems.marketkit.models.*
+import io.censystems.marketkit.models.*
 import io.reactivex.Single
 import retrofit2.Response
 import retrofit2.http.Body

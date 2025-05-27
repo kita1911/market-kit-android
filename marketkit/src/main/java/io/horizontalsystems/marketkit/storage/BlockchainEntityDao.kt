@@ -1,7 +1,7 @@
-package io.horizontalsystems.marketkit.storage
+package io.censystems.marketkit.storage
 
 import androidx.room.*
-import io.horizontalsystems.marketkit.models.*
+import io.censystems.marketkit.models.*
 
 @Dao
 interface BlockchainEntityDao {

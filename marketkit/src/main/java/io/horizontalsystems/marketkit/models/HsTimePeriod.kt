@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit.models
+package io.censystems.marketkit.models
 
 enum class HsTimePeriod(val value: String) {
     Day1("1d"),

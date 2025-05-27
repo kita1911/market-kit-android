@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit.models
+package io.censystems.marketkit.models
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

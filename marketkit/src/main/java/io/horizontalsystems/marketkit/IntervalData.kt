@@ -1,6 +1,6 @@
-package io.horizontalsystems.marketkit
+package io.censystems.marketkit
 
-import io.horizontalsystems.marketkit.models.HsPointTimePeriod
+import io.censystems.marketkit.models.HsPointTimePeriod
 
 data class IntervalData(
     val interval: HsPointTimePeriod,

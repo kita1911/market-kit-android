@@ -1,6 +1,6 @@
-package io.horizontalsystems.marketkit
+package io.censystems.marketkit
 
-import io.horizontalsystems.marketkit.providers.ISchedulerProvider
+import io.censystems.marketkit.providers.ISchedulerProvider
 import io.reactivex.Observable
 import io.reactivex.disposables.Disposable
 import io.reactivex.schedulers.Schedulers

@@ -1,8 +1,8 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
-import io.horizontalsystems.marketkit.models.*
-import io.horizontalsystems.marketkit.providers.HsNftProvider
-import io.horizontalsystems.marketkit.providers.TopCollectionRaw
+import io.censystems.marketkit.models.*
+import io.censystems.marketkit.providers.HsNftProvider
+import io.censystems.marketkit.providers.TopCollectionRaw
 import java.math.BigDecimal
 
 class NftManager(

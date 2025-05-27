@@ -1,6 +1,6 @@
-package io.horizontalsystems.marketkit.storage
+package io.censystems.marketkit.storage
 
-import io.horizontalsystems.marketkit.models.CoinHistoricalPrice
+import io.censystems.marketkit.models.CoinHistoricalPrice
 
 class CoinHistoricalPriceStorage(marketDatabase: MarketDatabase) {
 

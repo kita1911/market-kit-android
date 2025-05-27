@@ -1,9 +1,9 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
-import io.horizontalsystems.marketkit.ProviderError
-import io.horizontalsystems.marketkit.models.CoinHistoricalPrice
-import io.horizontalsystems.marketkit.providers.HsProvider
-import io.horizontalsystems.marketkit.storage.CoinHistoricalPriceStorage
+import io.censystems.marketkit.ProviderError
+import io.censystems.marketkit.models.CoinHistoricalPrice
+import io.censystems.marketkit.providers.HsProvider
+import io.censystems.marketkit.storage.CoinHistoricalPriceStorage
 import io.reactivex.Single
 import java.math.BigDecimal
 import kotlin.math.abs

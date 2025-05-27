@@ -24,7 +24,7 @@
         </activity>
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="io.horizontalsystems.marketkit.provider"
+            android:authorities="io.censystems.marketkit.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

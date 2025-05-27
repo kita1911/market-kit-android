@@ -1,4 +1,4 @@
-package io.horizontalsystems.marketkit.providers
+package io.censystems.marketkit.providers
 
 import com.google.gson.annotations.SerializedName
 import retrofit2.http.GET

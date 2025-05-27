@@ -1,9 +1,9 @@
-package io.horizontalsystems.marketkit.managers
+package io.censystems.marketkit.managers
 
-import io.horizontalsystems.marketkit.models.HsTimePeriod
-import io.horizontalsystems.marketkit.models.MarketOverview
-import io.horizontalsystems.marketkit.models.MarketOverviewResponse
-import io.horizontalsystems.marketkit.providers.HsProvider
+import io.censystems.marketkit.models.HsTimePeriod
+import io.censystems.marketkit.models.MarketOverview
+import io.censystems.marketkit.models.MarketOverviewResponse
+import io.censystems.marketkit.providers.HsProvider
 import io.reactivex.Single
 
 class MarketOverviewManager(
